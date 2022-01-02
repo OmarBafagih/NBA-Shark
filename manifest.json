@@ -1,0 +1,33 @@
+{
+    "name": "NBA-EXTENSION",
+    "version": "1.0",
+    "description": "view the scores of your favourite teams anytime.",
+    "permissions":[
+        "activeTab",
+        "storage",
+        "scripting"
+    ],
+   
+    "background": {
+        "scripts": ["background.js"]
+      },
+    
+    "content_scripts":[
+        {
+            "matches":[
+                "<all_urls>"
+            ],
+            "js": ["main_page.js"]
+        }
+    ],
+
+    "browser_action": {
+        "default_popup":"main_page.html",
+        "default_title": "NBA-extension"
+    },
+    
+    "manifest_version": 2,
+    "host_permissions":[
+        "<all_urls>"
+    ]
+  }
