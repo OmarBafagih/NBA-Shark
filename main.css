@@ -1,0 +1,51 @@
+#title{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#List{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    border: 5px solid red;
+    padding-right: 40px;
+}
+
+
+li{
+    color: aqua;
+    list-style-type: none;
+    align-items: center;
+}
+
+.gameDiv{
+
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 250px;
+    height: auto;
+    border: 5px solid red;
+    padding-top: 15px;
+}
+
+#homeDiv{
+    text-align: justify;
+    
+}
+#homeDiv img{
+    
+}
+
+.city{
+    font-size: 16px;
+    color: black;
+    text-align: center;
+}
+
+#awayDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
