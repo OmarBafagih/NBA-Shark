@@ -9,6 +9,7 @@
     1. Clone this repository
     2. Navigate to 'Manage Extensions' on chrome
      
+     ![plot](mdImg.png)
     
 
 
