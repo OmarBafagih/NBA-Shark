@@ -9,7 +9,7 @@
     1. Clone this repository
     2. Navigate to 'Manage Extensions' on chrome
      
-     ![alt text](https://github.com/OmarBafagih/NBALive-Extension/blob/main/mdImg1.png)
+   ![alt text](https://github.com/OmarBafagih/NBALive-Extension/blob/main/mdImg1.png)
     
 
 
