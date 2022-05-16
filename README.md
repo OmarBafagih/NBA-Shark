@@ -19,6 +19,6 @@
     
     
   ## How it works: ##
-    1. It's simple, click on the extension and get real-time scores of your favourite teams.
+    1. It's simple, click on the extension and get real-time scores of your favourite teams that are playing today.
     
    ![alt text](https://github.com/OmarBafagih/NBALive-Extension/blob/main/demo.png)
