@@ -4,7 +4,7 @@
 
 # Chrome Extension #
 
-  ## This chrome extension uses my [web-scraping API](https://github.com/OmarBafagih/NBA-API) ##
+  ## This chrome extension uses my [NBA API](https://github.com/OmarBafagih/NBA-API) ##
 
   ## How to use (Since it is pending approval on the chrome store): ##
   
