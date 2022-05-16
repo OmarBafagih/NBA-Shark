@@ -4,6 +4,8 @@
 
 # Chrome Extension #
 
+  ## This chrome extension uses my [web-scraping API](https://github.com/OmarBafagih/NBA-API) ##
+
   ## How to use (Since it is pending approval on the chrome store): ##
   
     1. Clone this repository.
@@ -19,4 +21,4 @@
   ## How it works: ##
     1. It's simple, click on the extension and get real-time scores of your favourite teams.
     
-
+   ![alt text](https://github.com/OmarBafagih/NBALive-Extension/blob/main/demo.png)
