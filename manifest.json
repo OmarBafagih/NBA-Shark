@@ -9,7 +9,7 @@
     ],
    
     "background": {
-        "scripts": ["background.js"]
+        "service_worker": "background.js"
       },
     
     "content_scripts":[
@@ -21,13 +21,11 @@
         }
     ],
 
-    "browser_action": {
+    "action": {
         "default_popup":"main_page.html",
         "default_title": "NBA-extension"
     },
     
-    "manifest_version": 2,
-    "host_permissions":[
-        "<all_urls>"
-    ]
+    "manifest_version": 3
+   
   }
