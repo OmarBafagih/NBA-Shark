@@ -8,15 +8,16 @@
     display: flex;
     justify-content: center;
     flex-direction: row;
-    border: 5px solid red;
     padding-right: 40px;
 }
 
 
 li{
-    color: aqua;
+    color: rgb(90, 59, 0);
     list-style-type: none;
     align-items: center;
+    margin: 15px 0;
+    
 }
 
 .gameDiv{
@@ -24,9 +25,10 @@ li{
     display: flex;
     justify-content: center;
     flex-direction: row;
-    width: 250px;
+    width: 350px;
     height: auto;
-    border: 5px solid red;
+    border: 5px solid rgb(206, 122, 27);
+    border-radius: 10px;
     padding-top: 15px;
 }
 
@@ -34,12 +36,15 @@ li{
     text-align: justify;
     
 }
-#homeDiv img{
-    
+img{
+    width: 112px;
+
 }
 
 .city{
     font-size: 16px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     text-align: center;
 }
@@ -48,4 +53,11 @@ li{
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+
+.gameStatus{
+    font-size: 14px;
+    font-weight: bold;
+    align-items: center;
 }
